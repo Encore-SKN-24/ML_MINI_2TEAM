@@ -83,15 +83,6 @@
 #### <img width="1295" height="603" alt="image" src="https://github.com/user-attachments/assets/a14ffc8a-c3e6-4607-92c3-6b387f8d409a" />
 
 
-#### 2. 피처 엔지니어링(Feature Engineering) 과정
-#### <img width="1170" height="558" alt="image" src="https://github.com/user-attachments/assets/4afd6f92-c6c5-4c80-b7d4-225b8854c553" />
-#### <img width="896" height="631" alt="image" src="https://github.com/user-attachments/assets/d5e0541a-7a7b-4985-af4e-e9590354914c" />
-
-
-#### 3. 전처리 결과
-#### <img width="1496" height="338" alt="image" src="https://github.com/user-attachments/assets/d34eeab6-a893-4c79-95f1-a58d692b1552" />
-
-
 ## 5-1. ✅ ML 데이터 전처리(Part. 1)
 #### 1. Logistic Regression (로지스틱 회귀)
 #### <img width="1129" height="316" alt="image" src="https://github.com/user-attachments/assets/bfcfc37f-62ef-4571-a7f6-54a4f9de86f8" />
