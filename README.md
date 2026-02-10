@@ -83,12 +83,12 @@
 #### <img width="1295" height="603" alt="image" src="https://github.com/user-attachments/assets/a14ffc8a-c3e6-4607-92c3-6b387f8d409a" />
 
 
-#### 2. 피처 엔지니어링(Feature Engineering) 과정 (수정 필요)
+#### 2. 피처 엔지니어링(Feature Engineering) 과정
 #### <img width="1170" height="558" alt="image" src="https://github.com/user-attachments/assets/4afd6f92-c6c5-4c80-b7d4-225b8854c553" />
 #### <img width="896" height="631" alt="image" src="https://github.com/user-attachments/assets/d5e0541a-7a7b-4985-af4e-e9590354914c" />
 
 
-#### 3. 전처리 결과 (수정 필요)
+#### 3. 전처리 결과
 #### <img width="1496" height="338" alt="image" src="https://github.com/user-attachments/assets/d34eeab6-a893-4c79-95f1-a58d692b1552" />
 
 
@@ -112,8 +112,7 @@
 
 #### class_weight='balanced'를 적용한 후
 #### <img width="427" height="195" alt="image" src="https://github.com/user-attachments/assets/7bcc43a2-0c17-4cb1-a504-b26c4f607dcb" />
-#### <img width="573" height="347" alt="image" src="https://github.com/user-attachments/assets/890006a0-45ed-48d6-9752-4700ed1879c5" />
-
+#### <img width="450" height="269" alt="image" src="https://github.com/user-attachments/assets/5372efc2-029b-4076-9729-eb4e4ee8820a" />
 
 
 #### 4. Random Forest (랜덤 포레스트)
@@ -133,12 +132,23 @@
 #### <img width="427" height="592" alt="image" src="https://github.com/user-attachments/assets/912f4b6a-f16e-4b4d-82f8-0f5bb0235200" />
 
 
+---
 
 
 
-## 7. ℹ️ 인사이트 도출 
-> 분석 결과, 동·주택유형 평균 대비 전세가율이 높은 매물일수록 전세사기 위험군에 포함될 가능성이 크게 증가하는 경향을 확인하였습니다. 특히 연립다세대·오피스텔에서 고위험 구간 비중이 높게 나타났으며, 이는 실거래가 대비 과도한 보증금 책정이 주요 위험 신호로 작용함을 시사합니다. 또한 단순 절대 가격보다 지역 평균 대비 상대비 지표가 위험 탐지에 더욱 효과적임을 확인하였습니다. 이를 통해 전세 계약 전, ‘보증금·실거래가·주택 유형 등’의 복합적 검토가 필수적인 의사결정 요소임을 도출하였습니다.
+## 6. ℹ️ 인사이트 도출 
+> Logistic Regression, Random Forest, XGBoost 모델을 비교 실험한 결과, 전세사기 위험은 통계적 패턴을 통해 충분히 분류 가능함을 확인했습니다. 특히 Random Forest와 XGBoost와 같은 트리 기반 앙상블 모델은 복잡한 변수 간 상호작용을 효과적으로 학습하여 선형 모델보다 우수한 성능을 보이는 것을 파악하였습니다. 그 중 특히, XGBoost 모델은 가장 높은 Recall과 ROC-AUC를 기록하며 위험 매물 탐지 능력에서 가장 뛰어난 결과를 나타낸다는 점도 파악할 수 있었습니다. 이는 전세사기 예방 목적에서 ‘정확도’보다 ‘위험 사례를 놓치지 않는 탐지율’이 더 중요하다는 점을 시사하며, 결과적으로 트리 기반 앙상블 방식이 본 문제에 가장 적합한 모델임을 알 수 있었습니다.
 
+
+## 7. 📈 프로젝트 기대 효과
+#### 임차인의 합리적 의사결정 지원:
+ > 본 프로젝트는 개별 매물의 전세사기 위험을 확률(%) 형태로 정량화하여 제공함으로써, 임차인이 단순 감이나 경험이 아닌 데이터 기반 객관적 지표를 활용해 계약 여부를 판단할 수 있도록 지원합니다.
+  
+#### 전세사기 사전 예방 효과:
+ > 기존 제도(HUG 보증, 사후 구제 정책 등)는 사고 발생 이후 대응에 초점이 맞춰져 있습니다. 반면, 본 프로젝트는 사전 예측 모델을 통해 위험 매물을 계약 전에 탐지함으로써 피해 발생 자체를 줄이는 예방적 접근을 제시합니다.
+  
+#### 데이터 기반 사회문제 해결 사례 제시:
+ > 본 프로젝트는 데이터 분석과 머신러닝 기술을 활용하여 사회적 문제(전세사기)를 예방하고, 데이터 사이언스가 실생활 문제 해결에 어떻게 기여할 수 있는지 보여주는 실증적 사례라는 의의를 가질 수 있습니다.
 
 ---
 
