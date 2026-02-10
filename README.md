@@ -96,6 +96,9 @@
 #### 1. Logistic Regression (로지스틱 회귀)
 #### <img width="1129" height="316" alt="image" src="https://github.com/user-attachments/assets/bfcfc37f-62ef-4571-a7f6-54a4f9de86f8" />
 
+#### <img width="897" height="687" alt="image" src="https://github.com/user-attachments/assets/db4d423e-b39d-4217-8484-507d9b98e5f1" />
+#### 출처: [https://imnews.imbc.com/news/2025/econo/article/6781511_36737.html](https://www.khug.or.kr/hug/web/cs/no/csno000001.jsp?id=16&mode=S&articleId=35430) HUG(주택도시보증공사)
+
 #### <img width="1569" height="564" alt="image" src="https://github.com/user-attachments/assets/8ade5236-3973-4157-b97a-c7b9a8c5d57f" />
 
 #### <img width="269" height="318" alt="image" src="https://github.com/user-attachments/assets/a5261dc9-c978-4c9e-9504-cc1f6732e810" />
