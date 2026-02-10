@@ -34,7 +34,7 @@
 “이 집은 위험한가?”를 확률로 예측하는 시스템을 구상했습니다.
 즉, 단순 정보 제공이 아닌 ‘예측 기반 안전 가이드’를 만드는 것이 본 프로젝트의 핵심입니다.
 
-## 2-1. 🖼️ 프로젝트 필요성(배경)
+## 2-2. 🖼️ 프로젝트 필요성(배경)
 #### 사회적 문제 심화:
 >  깡통전세 및 전세사기 피해가 여전히 발생하고 있으며, 청년층과 서민층의 주거 불안정이 심화되고 있습니다.
 #### <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/e56a9aa3-c1a3-4b50-aacb-23f68025671e" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 2-2. 🎯 프로젝트 목표
+## 2-3. 🎯 프로젝트 목표
 #### 데이터 통합 분석:
  > 실거래가, 전세가율, 해당 동 평균 전세가 등 흩어져 있는 데이터를 하나로 통합합니다.
   
@@ -78,12 +78,11 @@
 
 ---
 
-## 5. ✅ 데이터 전처리
-#### 1. 각 컬럼 별 값 확인
+## 5. ✅ 원본 데이터 확인
 #### <img width="1295" height="603" alt="image" src="https://github.com/user-attachments/assets/a14ffc8a-c3e6-4607-92c3-6b387f8d409a" />
 
 
-## 5-1. ✅ ML 데이터 전처리(Part. 1)
+## 5-1. ✅ 데이터 전처리 및 모델 학습, 평가(Part. 1)
 #### 1. Logistic Regression (로지스틱 회귀)
 #### <img width="1129" height="316" alt="image" src="https://github.com/user-attachments/assets/bfcfc37f-62ef-4571-a7f6-54a4f9de86f8" />
 
@@ -103,24 +102,19 @@
 #### class_weight='balanced'를 적용하기 전
 #### <img width="297" height="131" alt="image" src="https://github.com/user-attachments/assets/bdd1d8ff-0213-48d7-bbc8-c94e099e6311" />
 
-
 #### class_weight='balanced'를 적용한 후
 #### <img width="427" height="195" alt="image" src="https://github.com/user-attachments/assets/7bcc43a2-0c17-4cb1-a504-b26c4f607dcb" />
 #### <img width="573" height="347" alt="image" src="https://github.com/user-attachments/assets/fc301e65-6e3c-425d-943b-01cc41f3c8a8" />
-
-
 
 #### 4. Random Forest (랜덤 포레스트)
 #### <img width="471" height="433" alt="image" src="https://github.com/user-attachments/assets/48881e40-536d-4c3e-8027-5dce0840f2c7" />
 
 #### <img width="445" height="271" alt="image" src="https://github.com/user-attachments/assets/0f127974-c30b-46f6-a60a-6c13bdba85c7" />
 
-
 #### 5. 회귀 분석
 #### <img width="883" height="360" alt="image" src="https://github.com/user-attachments/assets/c1fb5faa-5f96-42d4-ac0d-b31c812f53ec" />
 
 #### <img width="895" height="412" alt="image" src="https://github.com/user-attachments/assets/9b46b928-0019-435c-903f-dce41efa3c43" />
-
 
 #### 6. 실제-예측 값 도출 결과
 
@@ -128,7 +122,7 @@
 
 
 
-## 5-2. ✅ ML 데이터 전처리(Part. 2)
+## 5-2. ✅ 데이터 전처리 및 모델 학습, 평가(Part. 2)
 #### <img width="1330" height="512" alt="01" src="https://github.com/user-attachments/assets/368824dc-a22c-4fa3-a9a3-c88b52ec821a" />
 #### <img width="871" height="467" alt="05" src="https://github.com/user-attachments/assets/8935bef7-a04e-4cd0-96d5-77710fcda4f0" />
 #### <img width="1632" height="567" alt="06" src="https://github.com/user-attachments/assets/d346ba29-7481-4a73-bd20-0de1935a788a" />
