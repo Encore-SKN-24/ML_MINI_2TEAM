@@ -112,7 +112,8 @@
 
 #### class_weight='balanced'를 적용한 후
 #### <img width="427" height="195" alt="image" src="https://github.com/user-attachments/assets/7bcc43a2-0c17-4cb1-a504-b26c4f607dcb" />
-#### <img width="450" height="269" alt="image" src="https://github.com/user-attachments/assets/5372efc2-029b-4076-9729-eb4e4ee8820a" />
+#### <img width="573" height="347" alt="image" src="https://github.com/user-attachments/assets/fc301e65-6e3c-425d-943b-01cc41f3c8a8" />
+
 
 
 #### 4. Random Forest (랜덤 포레스트)
