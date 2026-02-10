@@ -122,7 +122,7 @@
 
 
 #### 5. 회귀 분석
-#### <img width="976" height="287" alt="image" src="https://github.com/user-attachments/assets/e6953835-0f2e-4b6e-a02d-c5355fda9d60" />
+#### <img width="883" height="360" alt="image" src="https://github.com/user-attachments/assets/c1fb5faa-5f96-42d4-ac0d-b31c812f53ec" />
 
 #### <img width="895" height="412" alt="image" src="https://github.com/user-attachments/assets/9b46b928-0019-435c-903f-dce41efa3c43" />
 
