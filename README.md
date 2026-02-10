@@ -1,6 +1,6 @@
-# SKN24-EDA_MINI_2TEAM
+# SKN24-ML_MINI_2TEAM
 ## 🧀시골쥐들의 서울내기🐭
-*"서울시 전세사기 위험 지표"*
+*"서울시 전세사기 위험 머신 러닝 모델"*
 
 ## 1. 팀 소개
 
@@ -8,12 +8,12 @@
 ### 🧀시골쥐들🐭
 
 ## 1-2. 팀원
-|   이름   | GitHub            | 업무 |
-|:--------:|:-----------------:| :---:|
-| 권민세 | [KweonMinSe0109](https://github.com/KweonMinSe0109) | 기획, 데이터 수집 및 전처리, 차트 시각화, Readme 작성  |
-| 김정현 | [Jeich-16](https://github.com/Jeich-16) | 기획, 데이터 수집 및 전처리, 차트 시각화, Readme 작성
-| 박영훈 | [aprkaos56](https://github.com/aprkaos56) | 기획, 데이터 수집 및 전처리, 차트 시각화, Readme 작성
-| 황인규 | [hwang-in-kyu](https://github.com/hwang-in-kyu) |  기획, 데이터 수집 및 전처리, 차트 시각화, Readme 작성  |
+|   이름   | GitHub            | 
+|:--------:|:-----------------:|
+| 권민세 | [KweonMinSe0109](https://github.com/KweonMinSe0109) |
+| 김정현 | [Jeich-16](https://github.com/Jeich-16) |
+| 박영훈 | [aprkaos56](https://github.com/aprkaos56) |
+| 황인규 | [hwang-in-kyu](https://github.com/hwang-in-kyu) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 > 본 프로젝트는 서울시 전세 실거래 및 공공 데이터를 활용하여 전세사기 발생 가능성을 정량적으로 분석하고, 머신러닝 기반 위험 예측 모델을 구축하는 것을 목표로 합니다.
 단순 통계 시각화를 넘어, 개별 매물 단위에서 ‘전세사기 위험 확률’을 사전에 예측하는 데이터 기반 의사결정 지원 시스템을 구현합니다.
-이를 통해 임차인이 보다 안전한 주거 선택을 할 수 있도록 돕고자 합니다.
+이를 통해 임차인이 보다 안전한 주거 선택을 할 수 있도록 지원하고자 합니다.
 
 ## 2-1. 프로젝트 소개
 > 서울에서 자취와 독립을 시작하는 청년·사회초년생에게 전세 계약은 매력적인 선택지이지만, 동시에 전세사기라는 구조적 위험에 노출되어 있습니다.
@@ -93,7 +93,7 @@
 
 
 ## 5-1. ✅ ML 데이터 전처리
-#### 1. Logistic Regression 위험도 컬럼 추가
+#### 1. Logistic Regression (로지스틱 회귀)
 #### <img width="1129" height="316" alt="image" src="https://github.com/user-attachments/assets/bfcfc37f-62ef-4571-a7f6-54a4f9de86f8" />
 
 #### <img width="1569" height="564" alt="image" src="https://github.com/user-attachments/assets/8ade5236-3973-4157-b97a-c7b9a8c5d57f" />
@@ -103,19 +103,19 @@
 #### 2. 전세가율 - 건물나이 시각화 자료
 #### <img width="577" height="656" alt="image" src="https://github.com/user-attachments/assets/d5a1190b-ea19-43d2-bab7-0c4cfe9a8925" />
 
-#### 3. y값 설정 전처리 과정
+#### 3. y값 설정 및 전처리 과정
 #### <img width="809" height="597" alt="image" src="https://github.com/user-attachments/assets/b9a8a67d-73bf-4bb8-8fec-6d3954b9edf0" />
 
 #### class_weight='balanced'를 적용하기 전
 #### <img width="297" height="131" alt="image" src="https://github.com/user-attachments/assets/bdd1d8ff-0213-48d7-bbc8-c94e099e6311" />
 
 
-#### class_weight를 적용한 후
+#### class_weight='balanced'를 적용한 후
 #### <img width="427" height="195" alt="image" src="https://github.com/user-attachments/assets/7bcc43a2-0c17-4cb1-a504-b26c4f607dcb" />
 #### <img width="450" height="269" alt="image" src="https://github.com/user-attachments/assets/5372efc2-029b-4076-9729-eb4e4ee8820a" />
 
 
-#### 4. 랜덤 포레스트
+#### 4. Random Forest (랜덤 포레스트)
 #### <img width="471" height="433" alt="image" src="https://github.com/user-attachments/assets/48881e40-536d-4c3e-8027-5dce0840f2c7" />
 
 #### <img width="445" height="271" alt="image" src="https://github.com/user-attachments/assets/0f127974-c30b-46f6-a60a-6c13bdba85c7" />
