@@ -103,7 +103,7 @@
 #### 2. 전세가율 - 건물나이 시각화 자료
 #### <img width="577" height="656" alt="image" src="https://github.com/user-attachments/assets/d5a1190b-ea19-43d2-bab7-0c4cfe9a8925" />
 
-#### 3. y값 설정 및 회귀 분석
+#### 3. y값 설정 전처리 과정
 #### <img width="809" height="597" alt="image" src="https://github.com/user-attachments/assets/b9a8a67d-73bf-4bb8-8fec-6d3954b9edf0" />
 
 #### class_weight='balanced'를 적용하기 전
@@ -125,6 +125,11 @@
 #### <img width="883" height="360" alt="image" src="https://github.com/user-attachments/assets/c1fb5faa-5f96-42d4-ac0d-b31c812f53ec" />
 
 #### <img width="895" height="412" alt="image" src="https://github.com/user-attachments/assets/9b46b928-0019-435c-903f-dce41efa3c43" />
+
+
+#### 6. 실제-예측 값 도출 결과
+
+#### <img width="427" height="592" alt="image" src="https://github.com/user-attachments/assets/912f4b6a-f16e-4b4d-82f8-0f5bb0235200" />
 
 
 ---
