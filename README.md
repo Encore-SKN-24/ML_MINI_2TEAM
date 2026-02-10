@@ -83,21 +83,49 @@
 #### <img width="1295" height="603" alt="image" src="https://github.com/user-attachments/assets/a14ffc8a-c3e6-4607-92c3-6b387f8d409a" />
 
 
-#### 2. 결측치 비율 확인
-#### <img width="667" height="841" alt="image" src="https://github.com/user-attachments/assets/64c90a03-9ea4-4abe-9d81-e7a42b8c6fcc" />
-
-
-#### 3. 이상치 도출
-#### <img width="1422" height="587" alt="image" src="https://github.com/user-attachments/assets/152f9721-1ce6-46e3-9db6-8a7c3651667f" />
-
-
-#### 4. 피처 엔지니어링(Feature Engineering) 과정 
+#### 2. 피처 엔지니어링(Feature Engineering) 과정 (수정 필요)
 #### <img width="1170" height="558" alt="image" src="https://github.com/user-attachments/assets/4afd6f92-c6c5-4c80-b7d4-225b8854c553" />
 #### <img width="896" height="631" alt="image" src="https://github.com/user-attachments/assets/d5e0541a-7a7b-4985-af4e-e9590354914c" />
 
 
-#### 5. 전처리 결과
+#### 3. 전처리 결과 (수정 필요)
 #### <img width="1496" height="338" alt="image" src="https://github.com/user-attachments/assets/d34eeab6-a893-4c79-95f1-a58d692b1552" />
+
+
+## 5-1. ✅ ML 데이터 전처리
+#### 1. Logistic Regression 위험도 컬럼 추가
+#### <img width="1129" height="316" alt="image" src="https://github.com/user-attachments/assets/bfcfc37f-62ef-4571-a7f6-54a4f9de86f8" />
+
+#### <img width="1569" height="564" alt="image" src="https://github.com/user-attachments/assets/8ade5236-3973-4157-b97a-c7b9a8c5d57f" />
+
+#### <img width="269" height="318" alt="image" src="https://github.com/user-attachments/assets/a5261dc9-c978-4c9e-9504-cc1f6732e810" />
+
+#### 2. 전세가율 - 건물나이 시각화 자료
+#### <img width="577" height="656" alt="image" src="https://github.com/user-attachments/assets/d5a1190b-ea19-43d2-bab7-0c4cfe9a8925" />
+
+#### 3. y값 설정 및 회귀 분석
+#### <img width="809" height="597" alt="image" src="https://github.com/user-attachments/assets/b9a8a67d-73bf-4bb8-8fec-6d3954b9edf0" />
+
+#### class_weight='balanced'를 적용하기 전
+#### <img width="297" height="131" alt="image" src="https://github.com/user-attachments/assets/bdd1d8ff-0213-48d7-bbc8-c94e099e6311" />
+
+
+#### class_weight를 적용한 후
+#### <img width="427" height="195" alt="image" src="https://github.com/user-attachments/assets/7bcc43a2-0c17-4cb1-a504-b26c4f607dcb" />
+#### <img width="450" height="269" alt="image" src="https://github.com/user-attachments/assets/5372efc2-029b-4076-9729-eb4e4ee8820a" />
+
+
+#### 4. 랜덤 포레스트
+#### <img width="471" height="433" alt="image" src="https://github.com/user-attachments/assets/48881e40-536d-4c3e-8027-5dce0840f2c7" />
+
+#### <img width="445" height="271" alt="image" src="https://github.com/user-attachments/assets/0f127974-c30b-46f6-a60a-6c13bdba85c7" />
+
+
+#### 5. 회귀 분석
+#### <img width="976" height="287" alt="image" src="https://github.com/user-attachments/assets/e6953835-0f2e-4b6e-a02d-c5355fda9d60" />
+
+#### <img width="895" height="412" alt="image" src="https://github.com/user-attachments/assets/9b46b928-0019-435c-903f-dce41efa3c43" />
+
 
 ---
 
