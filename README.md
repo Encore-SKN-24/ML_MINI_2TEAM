@@ -112,7 +112,8 @@
 
 #### class_weight='balanced'를 적용한 후
 #### <img width="427" height="195" alt="image" src="https://github.com/user-attachments/assets/7bcc43a2-0c17-4cb1-a504-b26c4f607dcb" />
-#### <img width="450" height="269" alt="image" src="https://github.com/user-attachments/assets/5372efc2-029b-4076-9729-eb4e4ee8820a" />
+#### <img width="573" height="347" alt="image" src="https://github.com/user-attachments/assets/890006a0-45ed-48d6-9752-4700ed1879c5" />
+
 
 
 #### 4. Random Forest (랜덤 포레스트)
@@ -132,37 +133,6 @@
 #### <img width="427" height="592" alt="image" src="https://github.com/user-attachments/assets/912f4b6a-f16e-4b4d-82f8-0f5bb0235200" />
 
 
----
-
-## 6. 📊 시각화 자료
-
-
-#### 1. 2025년 서울특별시 자치구 별 전세 계약 건수 
-#### <img width="1473" height="642" alt="image" src="https://github.com/user-attachments/assets/83c32b99-c42a-4bf9-9172-44546165ddd6" />
-
-
-#### 2. 2025년 서울시 월별 전세 계약 건수
-#### <img width="1472" height="632" alt="image" src="https://github.com/user-attachments/assets/87509787-b3c8-4b00-8667-efa3a4c4e219" />
-
-
-#### 3. 위험요소 컬럼 선정 기준
-#### <img width="1131" height="542" alt="image" src="https://github.com/user-attachments/assets/33fd3b09-61c5-44c4-af52-1866fb34e541" />
-
-
-#### 4-1. 전세가율 구간 별 건물나이 구성비
-#### <img width="1226" height="482" alt="image" src="https://github.com/user-attachments/assets/f71412b7-17c4-4084-a1e6-3e2407c9a762" />
-
-
-#### 4-2. 전세가율 구간 별 주택유형 구성비
-#### <img width="1230" height="483" alt="image" src="https://github.com/user-attachments/assets/929d3639-234d-47f1-a2cc-e980525c15c2" />
-
-
-#### 5. 송파구 동별 평균 전세가율
-#### <img width="1220" height="725" alt="image" src="https://github.com/user-attachments/assets/5af8277c-8235-4e97-952c-40bf16ea6c4b" />
-
-
-#### 6. 전세가율 구간 별 평균 보증금 상대비
-#### <img width="848" height="480" alt="image" src="https://github.com/user-attachments/assets/48bcbcca-b159-4664-a55c-701e9f2df858" />
 
 
 
