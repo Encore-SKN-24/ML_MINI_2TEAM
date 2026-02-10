@@ -92,7 +92,7 @@
 #### <img width="1496" height="338" alt="image" src="https://github.com/user-attachments/assets/d34eeab6-a893-4c79-95f1-a58d692b1552" />
 
 
-## 5-1. ✅ ML 데이터 전처리
+## 5-1. ✅ ML 데이터 전처리(Part. 1)
 #### 1. Logistic Regression (로지스틱 회귀)
 #### <img width="1129" height="316" alt="image" src="https://github.com/user-attachments/assets/bfcfc37f-62ef-4571-a7f6-54a4f9de86f8" />
 
@@ -132,7 +132,28 @@
 #### <img width="427" height="592" alt="image" src="https://github.com/user-attachments/assets/912f4b6a-f16e-4b4d-82f8-0f5bb0235200" />
 
 
----
+
+## 5-2. ✅ ML 데이터 전처리(Part. 2)
+#### <img width="1330" height="512" alt="01" src="https://github.com/user-attachments/assets/368824dc-a22c-4fa3-a9a3-c88b52ec821a" />
+#### <img width="871" height="467" alt="05" src="https://github.com/user-attachments/assets/8935bef7-a04e-4cd0-96d5-77710fcda4f0" />
+#### <img width="1632" height="567" alt="06" src="https://github.com/user-attachments/assets/d346ba29-7481-4a73-bd20-0de1935a788a" />
+#### 1. KNN
+#### <img width="875" height="408" alt="07" src="https://github.com/user-attachments/assets/dc71fa42-2c4e-4b45-b550-74b61b620972" />
+#### <img width="1007" height="507" alt="08" src="https://github.com/user-attachments/assets/cfb2265f-f249-4d85-8f8a-f16847d202e6" />
+#### <img width="1231" height="617" alt="10" src="https://github.com/user-attachments/assets/99a59c8e-a077-4713-b421-cdff40c2afff" />
+#### <img width="863" height="492" alt="11" src="https://github.com/user-attachments/assets/82d29d21-0e35-4ca8-b5a8-8b8f25500e78" />
+#### <img width="805" height="45" alt="12" src="https://github.com/user-attachments/assets/69384ed0-2de4-489e-ad55-3cd5e4d0adbd" />
+#### 2. XGBoost
+#### <img width="742" height="336" alt="15" src="https://github.com/user-attachments/assets/08cff1fe-20b7-451b-bb50-2700eccc59a9" />
+#### <img width="787" height="592" alt="16" src="https://github.com/user-attachments/assets/a34fcfef-6ca8-4efc-af2c-604b19e474bf" />
+#### <img width="1061" height="533" alt="17" src="https://github.com/user-attachments/assets/4db6b7d8-f476-4515-858a-816944433def" />
+#### <img width="617" height="78" alt="18" src="https://github.com/user-attachments/assets/57336cdf-7808-43f8-9198-45da3f150916" />
+#### <img width="551" height="71" alt="19" src="https://github.com/user-attachments/assets/e707cee5-eb1f-42e8-bf2d-9fcfe739dda6" />
+#### <img width="1016" height="81" alt="20" src="https://github.com/user-attachments/assets/7255c902-7a2e-414c-a82c-f219a220a91a" />
+#### <img width="490" height="67" alt="21" src="https://github.com/user-attachments/assets/6f8c83b5-e99f-4d1b-b3c9-5d2333a24c3b" />
+#### <img width="797" height="43" alt="22" src="https://github.com/user-attachments/assets/31d3488b-8094-47bc-8672-b4e4e261b9c7" />
+#### <img width="1012" height="543" alt="23" src="https://github.com/user-attachments/assets/caca8253-6225-40f6-8324-8baf247739cb" />
+
 
 
 
